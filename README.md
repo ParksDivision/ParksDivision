@@ -1,10 +1,8 @@
 ## Hello there! 
 
-I'm Kyle, a Software Engineer based in Austin, Texas, with a background in Entertainment and a Bachelor's degree from UCLA. I've developed several applications in both solo and collaborative environments and strive to deliver clean and efficient code in every aspect of my work. 
+I'm a full-stack software engineer based in Austin, Texas, with several years of experience in application development. My years spent in the entertainment industry allow me to bring a uniquely creative perspective to engineering, with extensive experience problem-solving in any situation. Driven by a natural curiosity and desire to grow with every chance I get, I combine an attention to detail with a commitment to delivering high-quality, timely results. This somewhat unique perspective and background has proven to be an asset in both independent and collaborative settings, and I'm excited to showcase some of my work here for you to peruse. Enjoy!
 
-My background in Film and TV allows me to operate not only with a strong creative eye, but with a seasoned attention to detail and willingness to learn new ways to solve problems. I've been lucky enough to work on some of the largest grossing films and TV shows in recent years, and I look forward to utilizing this experience and the knowledge I've gained. 
-
-Check out my [LinkedIn](https://www.linkedin.com/in/kylejohnparks/) for more info!
+Check out my [LinkedIn](https://www.linkedin.com/in/kylejohnparks/) for more info.
 
 ### Tech Stack
 ![image](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
